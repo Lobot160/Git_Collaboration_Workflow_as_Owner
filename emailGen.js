@@ -8,7 +8,9 @@ const employeesDat = [
     "Christy Harrington 95257",
     "Vickie Hull 77973",
     "Levi Neely 10582",
-    // Here's the main change, added my name and removed others
+    "Bruce Wayne 13309",
+    "Peter Parker 83902",
+    "Vickie Hull 77973"
 ];
 
 //return a generated email based on employee object data
