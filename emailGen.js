@@ -6,9 +6,9 @@ console.log("Generating email addresses...");
 const employeesDat = [
     "Logan Haroldsen 64775",
     "Christy Harrington 95257",
-    "Leonard Russell 34732",
-    "Erika Hayes 86696",
-    "Vickie Hull 77973"
+    "Vickie Hull 77973",
+    "Levi Neely 10582",
+    // Here's the main change, added my name and removed others
 ];
 
 //return a generated email based on employee object data
