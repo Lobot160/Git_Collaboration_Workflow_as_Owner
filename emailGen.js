@@ -6,6 +6,8 @@ console.log("Generating email addresses...");
 const employeesDat = [
     "Logan Haroldsen 64775",
     "Christy Harrington 95257",
+    "Vickie Hull 77973",
+    "Levi Neely 10582",
     "Bruce Wayne 13309",
     "Peter Parker 83902",
     "Vickie Hull 77973"
